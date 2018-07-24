@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+.idea/azureSettings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/hmrc-screening.iml
+.idea/sbt.xml
+.idea/vcs.xml
+.idea/workspace.xml
+project/
+
+target/
+
